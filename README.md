@@ -1,5 +1,8 @@
 # Tableau Assignment - Citi Bike Analytics
 
+Tableau viz: https://public.tableau.com/profile/jason.tan5349#!/vizhome/2018CitiBikeAnalysis_15737636867170/Dashboard2?publish=yes
+
+
 ## Background
 
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
